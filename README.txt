@@ -1,3 +1,7 @@
+This is my portfolio website. It was made adapting the following website template, "Strongly Typed" (see below).
+
+#README.txt of website template
+
 Strongly Typed by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
