@@ -1,6 +1,15 @@
 This is my portfolio website. It was made adapting the following website template, "Strongly Typed" (see below).
 
-#README.txt of website template
+
+
+
+
+
+
+
+
+
+
 
 Strongly Typed by HTML5 UP
 html5up.net | @ajlkn
